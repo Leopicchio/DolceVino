@@ -1,1 +1,1 @@
-ciao ho cambiato il contenuto di questo file scrivendo qualcos'altro
+ciao ho cambiato il contenuto di questo file aggiungendo la frase A
